@@ -1,11 +1,11 @@
 # Java
-**Overview**
+**Overview:**
 This is a Java project to build a decision tree application. 
 The decision tree is built from each single tree and then get the result from the voting (counting). The application loads the data (stored in MySQL), extracts features and process the prediction
-- Dataset: Titanic
-- Data structure and design: Classes are organized according to the object-oriented design
+- **Dataset**: Titanic
+- **Data structure and design**: Classes are organized according to the object-oriented design
 
-Classes:
+**Classes:**
 -	TrainingValue: Abstract class 
 -	NumericalTrainingValue: Implement TrainingValue which is numerical 
 -	TextualTrainingValue: Implement TrainingValue which is textual 
