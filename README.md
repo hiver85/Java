@@ -6,6 +6,7 @@ The decision tree is built from each single tree and then get the result from th
 - **Data structure and design**: Classes are organized according to the object-oriented design
 
 **Classes:**
+![]Decision.PNG
 -	TrainingValue: Abstract class 
 -	NumericalTrainingValue: Implement TrainingValue which is numerical 
 -	TextualTrainingValue: Implement TrainingValue which is textual 
